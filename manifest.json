@@ -1,6 +1,7 @@
 {
     "manifest_version": 2,
     "version": "0.3",
+    "description": "when selected a word in the webpage, you can see it's definition in the extension",
     "name": "definer",
     "content_scripts": [
         {
@@ -18,5 +19,11 @@
             "32": "assets/icon.png"        
         },
         "default_popup": "popup/popup.html"
+    },
+    "icons": {
+        "16": "assets/icon.png",
+        "32": "assets/icon.png",
+        "48": "assets/icon.png",
+        "128": "assets/icon.png"
     }
 }
