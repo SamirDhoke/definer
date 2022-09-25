@@ -9,3 +9,4 @@
     6. open the extension from toolbar.
     7. you will see the definition if that word exists in the API.
 - I have used the [Owlbot](https://owlbot.info/) API for fetching definitions
+- I basically followed [Daniel Shiffman](https://shiffman.net/) and his set of [videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS) about developing a chrome extensions. Highly recommended.
